@@ -1,6 +1,7 @@
 import React from 'react';
 
-export function ReactIcon({ w, h }) {
+export function ReactIcon({ w, h })
+{
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -29,7 +30,8 @@ export function ReactIcon({ w, h }) {
   );
 }
 
-export function VueIcon({ w, h }) {
+export function VueIcon({ w, h })
+{
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -61,7 +63,8 @@ export function VueIcon({ w, h }) {
   );
 }
 
-export function SvelteIcon({ w, h }) {
+export function SvelteIcon({ w, h })
+{
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -81,7 +84,8 @@ export function SvelteIcon({ w, h }) {
   );
 }
 
-export function NextIcon({ w, h }) {
+export function NextIcon({ w, h })
+{
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -105,7 +109,8 @@ export function NextIcon({ w, h }) {
   );
 }
 
-export function NuxtIcon({ w, h }) {
+export function NuxtIcon({ w, h })
+{
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -130,7 +135,8 @@ export function NuxtIcon({ w, h }) {
   );
 }
 
-export function GatsbyIcon({ w, h }) {
+export function GatsbyIcon({ w, h })
+{
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -147,7 +153,8 @@ export function GatsbyIcon({ w, h }) {
   );
 }
 
-export function StarIcon({ w, h }) {
+export function StarIcon({ w, h })
+{
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -156,7 +163,7 @@ export function StarIcon({ w, h }) {
       fill="none"
       viewBox="0 0 16 16"
     >
-      <g clip-path="url(#clip0)">
+      <g clipPath="url(#clip0)">
         <path
           fill="#3498DB"
           d="M3.581 15.677a.85.85 0 01-.829-1.04l1.03-4.535L.29 7.041a.85.85 0 01.482-1.488l4.619-.42L7.218.86a.85.85 0 011.564 0l1.826 4.273 4.618.42a.85.85 0 01.483 1.488l-3.49 3.06 1.029 4.535a.85.85 0 01-1.265.918L8 13.174l-3.983 2.382a.852.852 0 01-.436.12zM8 12.149c.151 0 .301.04.436.12l3.759 2.249-.972-4.28a.85.85 0 01.27-.828l3.296-2.891-4.361-.396a.85.85 0 01-.707-.516L8 1.575 6.277 5.608a.847.847 0 01-.705.514l-4.362.396 3.296 2.89c.237.207.34.524.27.83l-.97 4.279 3.758-2.247A.853.853 0 018 12.149zM5.357 5.216l-.001.001zm5.285-.002v.001z"
@@ -171,7 +178,8 @@ export function StarIcon({ w, h }) {
   );
 }
 
-export function WatchIcon({ w, h }) {
+export function WatchIcon({ w, h })
+{
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -192,7 +200,8 @@ export function WatchIcon({ w, h }) {
   );
 }
 
-export function BugIcon({ w, h }) {
+export function BugIcon({ w, h })
+{
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -209,7 +218,8 @@ export function BugIcon({ w, h }) {
   );
 }
 
-export function AzureIcon() {
+export function AzureIcon()
+{
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -226,7 +236,8 @@ export function AzureIcon() {
   );
 }
 
-export function GithubIcon() {
+export function GithubIcon()
+{
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
